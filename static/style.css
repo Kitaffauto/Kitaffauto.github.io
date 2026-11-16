@@ -51,6 +51,8 @@ img { max-width: 100%; height: auto; display: block; }
 .article-grid { display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr); gap: 36px; align-items: start; }
 .pin-figure { margin: 0; position: sticky; top: 20px; }
 .pin-figure img { border-radius: 16px; box-shadow: 0 1px 0 var(--line); }
+.photo-credit { font-size: 13px; color: var(--muted, #6b6b6b); margin-top: 8px; text-align: center; }
+.photo-credit a { color: inherit; }
 .body h2 { font-family: var(--serif); font-size: 26px; line-height: 1.25; margin: 28px 0 8px; }
 .body p { margin: 0 0 16px; }
 .body ul, .body ol { padding-left: 22px; }
