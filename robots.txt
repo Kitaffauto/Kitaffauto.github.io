@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kitaffauto.github.io/sitemap.xml

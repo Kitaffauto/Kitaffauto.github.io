@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Kitchen Finds – Kitchen Gadgets Worth It</title>
+<link>https://kitaffauto.github.io/boards/kitchen-gadgets/</link>
+<description>Small-kitchen ideas, gadgets and organizing tricks that actually help.</description>
+<language>en</language>
+<atom:link href="https://kitaffauto.github.io/feeds/kitchen-gadgets.xml" rel="self" type="application/rss+xml"/>
+</channel>
+</rss>
