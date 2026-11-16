@@ -6,5 +6,14 @@
 <description>Small-kitchen ideas, gadgets and organizing tricks that actually help.</description>
 <language>en</language>
 <atom:link href="https://kitaffauto.github.io/feeds/kitchen-gadgets.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>6 Small Kitchen Gadgets That Actually Save Time</title>
+<link>https://kitaffauto.github.io/kitchen-gadgets-that-save-time/</link>
+<guid isPermaLink="true">https://kitaffauto.github.io/kitchen-gadgets-that-save-time/</guid>
+<pubDate>Mon, 16 Nov 2026 11:10:00 +0100</pubDate>
+<description>Kitchen gadgets that are actually worth it: herb scissors, an instant-read thermometer, a bench scraper and more small tools that save time every day.</description>
+<enclosure url="https://kitaffauto.github.io/pins/kitchen-gadgets-that-save-time.jpg" length="120180" type="image/jpeg"/>
+<media:content url="https://kitaffauto.github.io/pins/kitchen-gadgets-that-save-time.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
 </channel>
 </rss>

@@ -6,5 +6,14 @@
 <description>Small-kitchen ideas, gadgets and organizing tricks that actually help.</description>
 <language>en</language>
 <atom:link href="https://kitaffauto.github.io/feeds/easy-cooking-tips.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Keep fresh herbs green longer: treat them like flowers</title>
+<link>https://kitaffauto.github.io/keep-fresh-herbs-longer/</link>
+<guid isPermaLink="true">https://kitaffauto.github.io/keep-fresh-herbs-longer/</guid>
+<pubDate>Mon, 16 Nov 2026 11:20:00 +0100</pubDate>
+<description>How to store fresh herbs so they last longer: the jar-of-water trick for parsley, cilantro and mint, plus why basil stays out of the fridge.</description>
+<enclosure url="https://kitaffauto.github.io/pins/keep-fresh-herbs-longer.jpg" length="102938" type="image/jpeg"/>
+<media:content url="https://kitaffauto.github.io/pins/keep-fresh-herbs-longer.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
 </channel>
 </rss>
